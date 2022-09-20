@@ -1,0 +1,9 @@
+server:
+  port: 8000
+
+feing:
+  client:
+    viacep:
+      url: viacep.com.br/ws
+    product:
+      url: https://makeup-api.herokuapp.com
